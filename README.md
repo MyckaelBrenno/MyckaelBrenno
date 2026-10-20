@@ -5,8 +5,8 @@
 ```
 <img src="https://c.tenor.com/XasjKGMk_wAAAAAC/load-loading.gif" alt="loading" width="250"/>
                     
-- :coffee: I’m interested in networking, code, i love coffe and java
-- :computer: I’m currently learning more about Java, Java Script, TypeScript
+- :coffee: I’m interested in networking, code, i love coffe and JavaScript
+- :computer: I’m currently learning more about React, Next.js, JavaScript, TypeScript
 - 📫 How to reach me myckaelbrennno@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyckaelBrenno&show_icons=true&theme=dark&icon_color=8257E5)
